@@ -8,6 +8,8 @@
 extern "C"{
 #include "sai.h"
 #include "saiextensions.h"
+#include "saimetadatatypes.h"
+#include "saimetadata.h"
 }
 
 #include "sairedis.h"
